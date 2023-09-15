@@ -29,10 +29,6 @@
       <li><strong>Python</strong></li>
       <li><strong>Flask SQLAlchemy</strong></li>
     </ul>
-    <h2 align="left">🔭 Actualmente trabajando en equipo en:</h2>
-    <ul align="left">
-      <li><strong>Nuestro propio e-commerce: https://github.com/sumpierrezf/mercado-del-artesano-app</strong></li>
-    </ul>
     <h2 align="left">Cómo contactarme 💬</h2>
     <ul align="left">
       <li><strong>Correo: manupirizcorrea@gmail.com 💌</strong></li>
