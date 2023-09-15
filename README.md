@@ -40,11 +40,5 @@
     </ul>
     <h1></h1>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisPiriz&show_icons=true)
-  
-</div>
-
 
 
